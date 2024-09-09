@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jainMohinish/notes-application/static/css/main.fe590ba9.css",
+    "main.js": "/jainMohinish/notes-application/static/js/main.7a5d041c.js",
+    "static/js/453.118a6c16.chunk.js": "/jainMohinish/notes-application/static/js/453.118a6c16.chunk.js",
+    "index.html": "/jainMohinish/notes-application/index.html",
+    "main.fe590ba9.css.map": "/jainMohinish/notes-application/static/css/main.fe590ba9.css.map",
+    "main.7a5d041c.js.map": "/jainMohinish/notes-application/static/js/main.7a5d041c.js.map",
+    "453.118a6c16.chunk.js.map": "/jainMohinish/notes-application/static/js/453.118a6c16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe590ba9.css",
+    "static/js/main.7a5d041c.js"
+  ]
+}
